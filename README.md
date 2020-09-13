@@ -1,5 +1,5 @@
 <p align="center">
- <img src="/header.png"></img>
+ <img src="https://github.com/tanema/tanema/raw/master/header.png"></img>
 </p>
 
 <!--
