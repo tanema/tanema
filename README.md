@@ -1,3 +1,6 @@
+My awesome repo
+--------------
+
 <p align="center">
  <img src="https://github.com/tanema/tanema/raw/master/brushies.gif"></img>
 </p>
