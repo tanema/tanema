@@ -1,18 +1,12 @@
-<p align="center">
- <img src="https://github.com/tanema/tanema/raw/master/brushies.gif"></img>
-</p>
+# Creator of artisanal slowly curated, handcrafted mostly high quality code
 
-<!--
-**tanema/tanema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find me:
+- On my website [timanema.com](https://timanema.com)
+- Working on a lua implementation at [luaf.dev](https://luaf.dev)
+- Having fun making silly things like [A CLI Tamagotchi](https://github.com/tanema/petli) or [A Command Line Puzzlebox](https://github.com/tanema/pb)
 
-Here are some ideas to get you started:
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=golang,ruby,lua,bash,rust,git,react,vue,nodejs,js,ts,html,neovim,kafka,docker,kubernetes,sqlite,mysql,postgres,redis,netlify)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Studying
+[![Studying](https://skillicons.dev/icons?i=c,cpp,cmake,arduino,zig)](https://skillicons.dev)
